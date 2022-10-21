@@ -1,0 +1,400 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>MIDKA</title>
+ 
+</head>
+    <body>
+       
+<div class="topp">
+    <div id="words12">
+        <div class="white" id="word1">LITTLE ROOM</div>
+        <div class="white" id="word2">WE HELP</div>
+        <img src="https://static.tildacdn.com/tild3961-3337-4334-b135-653566353231/Group_16.svg">
+    </div>
+    
+<div id="words34">
+    <div class="white" id="word3">AGENCY</div>
+    <div class="white" id="word4">ARTISTS</div>
+    <div class="white" style="margin-bottom: 1%;">MUSICIANS</div>
+    <div class="white" style="margin-bottom: 1%;">LABELS</div>
+    <div class="white" style="margin-bottom: 1%;">INDEPENDENT ARTISTS</div>
+    <div class="white" style="margin-bottom: 1%;">VENUES</div>
+</div>
+
+
+
+</div>
+
+
+<div id="container">
+    <div style="background-color:aliceblue; width: 100px; height: 100px;" id="whitesquare"></div>
+    <div style="background-color:aliceblue; width: 100px; height: 100px;" id="whitesquare2"></div>
+    <div style="background-color:aliceblue; width: 100px; height: 100px;" id="whitesquare3"></div>
+</div>
+
+
+
+<div class="bottom1">
+<div style="margin-left: 3%">
+     <div id="imgstextom" style="display: flex;margin-bottom: 3%;">
+   <div class="white" id="toshine" style="white-space: nowrap">TO SHINE</div>
+   <img src="https://static.tildacdn.com/tild3636-6366-4462-a630-666335326432/Star_2.svg">
+     </div>
+
+<div id="knopkastextom">
+
+    <div class="white" style="margin-bottom: 0.3%; display: flex;">
+        <div class="white" >WE IMPROVE </div>
+        <div class="white" style=" margin-left: 6px; font: 'Dancing Script', cursive;">the fan experience</div>
+    </div>
+
+    <div class="white" style="margin-bottom: 0.3%;">ENHANCE VISIBILITY AND IMAGE OF</div>
+
+    <div class="white" style="margin-bottom: 0.3%;">LABELS AND MANAGEMENT COMPANIES</div>
+
+    <button type="button" id="buttonUS" style="margin-top: 9%;">
+        <div style="font-family: 'Pacifico', cursive;">CONTACT US</div>
+    </button>
+
+</div>
+</div>
+
+<div id="wordsdigital" style="margin-left: 30%;">
+    <div class="white" style="font-size: 100px;white-space: nowrap">IN THE DIGITAL</div>
+
+<div style="float:right">
+    <div class="white" style="font-size: 100px;">SPACE</div>
+    <div class="white">WEBSITES</div>
+    <div class="white">SOCIAL MEDIA MARKETING</div>
+    <div class="white">PROMO PAGES</div>
+</div>
+
+</div>
+
+</div>
+
+
+<div id="krug">
+    <img src="https://thumb.tildacdn.com/tild3332-3766-4539-b238-326661316163/-/resize/851x/-/format/webp/vinyl.png" alt="">
+</div>
+
+
+<div style="color:white; margin-top: 5%;margin-left: 3%;">WE WORK WITH</div>
+
+
+
+<div class="topp">
+
+    <div style="margin-left: 3%;">
+        <div class="white" style="font-size: 50px;font-family: 'Pacifico', cursive;">independent</div>
+        <div class="white" style="display: flex; font-size: 50px;" >
+           
+         <div>ARTISTS</div>
+<img src="https://static.tildacdn.com/tild3636-6366-4462-a630-666335326432/Star_2.svg" alt="">
+        </div>
+     <div style="margin-top: 5%;margin-bottom: 5%;">
+        <div class="white">SHINE ON STAGE, CREATE, AND WE WILL</div>
+        <div class="white">DO ALL THE TECHNICAL WORK FOR YOU</div>
+    </div>
+
+<div>
+    <a href="https://music.littleroom.agency/?ref=https://tilda.cc/ru/madeontilda/#popup:artist" style="color: white;text-decoration: none;font-family: 'Pacifico', cursive;">more +</a>
+</div>
+
+    </div>
+    
+
+    <div style="margin-left: 30%;">
+        <div class="white" style="font-size: 50px;font-family: 'Pacifico', cursive;">RECORD</div>
+
+        <div class="white" style="display: flex; font-size: 50px;" >
+         <div>labels</div>
+               <img src="https://static.tildacdn.com/tild3636-6366-4462-a630-666335326432/Star_2.svg" alt="">
+        </div>
+
+     <div style="margin-top: 5%;margin-bottom: 5%;">
+        <div class="white">WE WILL HELP DEVELOP YOUR LABEL'S</div>
+        <div class="white">BRAND AND CREATE ITS IMAGE</div>
+    </div>
+<div>
+    <a href="https://music.littleroom.agency/?ref=https://tilda.cc/ru/madeontilda/#popup:artist" style="color: white;text-decoration: none;font-family: 'Pacifico', cursive;">more +</a>
+</div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="topp">
+    <div style="margin-left: 3%;">
+        <div class="white" style="font-size: 50px;font-family: 'Pacifico', cursive;">MUSIC</div>
+
+        <div class="white" style="display: flex; font-size: 50px;" >
+         <div>festivals</div>
+        </div>
+
+     <div style="margin-top: 5%;margin-bottom: 5%;">
+        <div class="white">LET'S MAKE YOUR FESTIVAL</div>
+        <div class="white">ATTRACTIVE TO ARTISTS AND FANS</div>
+    </div>
+
+<div>
+    <a href="https://music.littleroom.agency/?ref=https://tilda.cc/ru/madeontilda/#popup:artist" style="color: white;text-decoration: none;font-family: 'Pacifico', cursive;">more +</a>
+</div>
+
+    </div>
+    
+
+
+    <div style="margin-left: 32%; z-index: 100;">
+        <div class="white" style="font-size: 50px;font-family: 'Pacifico', cursive;">talent</div>
+        <div class="white" style="display: flex; font-size: 50px;" >
+         <div>MANAGEMENT</div>
+        </div>
+     <div style="margin-top: 5%;margin-bottom: 5%;">
+        <div class="white">TAKE CARE OF THE ARTISTS,</div>
+        <div class="white">AND WE WILL TAKE CARE OF THE FANS</div>
+    </div>
+
+<div>
+    <a href="https://music.littleroom.agency/?ref=https://tilda.cc/ru/madeontilda/#popup:artist" style="color: white;text-decoration: none;font-family: 'Pacifico', cursive;">more +</a>
+</div>
+    </div>
+
+</div>
+
+
+
+
+<div>
+    <!-- <div style="background-color: rgb(20, 20, 20); position: absolute;height: 80%;width: 80%;margin-left: 10%;margin-top: 3%;"></div> -->
+
+    <div class="white" style=" margin-left: 6%;margin-top: 8%;">
+        <div>WE KNOW HOW</div>
+        <div>TO CREATE</div>
+        <div style="font-size: 150px;font-family: 'Pacifico', cursive;">FAN friendly</div>
+
+        <div style="display: flex;">
+    <div style="font-size: 150px;">WEBSITES</div>
+    <img src="https://static.tildacdn.com/tild3166-3261-4436-a462-653932383836/sound-wave.gif" alt="1" style="width: 300px;height: 300px; margin-left: 5%;">
+        </div>
+
+    </div>
+
+
+    
+
+</div>
+
+
+<div id="podknopkoi" style="margin-left:9% ; display: flex;" >
+
+    <div>
+        <div class="white" style="margin-bottom: 5%;">
+            <div>WE CREATE FAN-FRIENDLY WEBSITES THAT</div>
+            <div>REFLECT ARTISTS CHARACTER.</div>
+        </div>
+    
+        <div class="white">
+            <div>AND IMPROVE THE FAN EXPERIENCE AT ALL</div>
+            <div>POINTS OF CONTACT WITH THE ARTIST AND</div>
+            <div>LABEL ESPECIALLY IN THE DIGITAL SPACE:</div>
+        </div>
+        
+    </div>
+     
+
+    <div style="display: flex; padding: 0% 20%; ">
+
+        <div class="white" style="padding: 0% 40%;line-height: 30px;">
+            <div>POSTERS</div>
+            <div>WEBSITES</div>
+            <div>MERCH</div>
+        </div>
+       
+        <div class="white" style="padding: 0% 40%;line-height: 30px;">
+            <div>TICKETS</div>
+            <div>SOCIAL MEDIA</div>
+            <div>STREAMING</div>
+            <div>PLATFORMS</div>
+        </div>
+    </div>
+
+    <button type="button" id="buttonUS" >
+        <div style="font-family: 'Pacifico', cursive;">CONTACT US</div>
+    </button>
+    
+    
+    </div>
+
+
+
+
+
+<div class="bg-ex-parallax">
+    <div class="parallax-overlay"></div>
+   </div>
+
+
+
+
+
+
+<div style="background-color:rgb(233, 77, 15) ; width:100%;height: 400px;margin-top: 5%;"></div>
+
+
+
+<div style="display: flex;">
+<div class="white" style="font-size: 150px; margin-left: 10%;margin-top: 5%;">
+    F.A.Q
+</div>
+<img src="https://static.tildacdn.com/tild3166-3261-4436-a462-653932383836/sound-wave.gif" alt="" style="margin-left:10%; margin-top:2% ;">
+</div>
+
+        <div style="margin-left: 22%; margin-top: 5%;" >
+
+
+            <label for="nav1">
+                
+            <div class="navbar" style="display: flex; border-bottom: 4px solid #ffffff; cursor: pointer;width: 1000px; border-top: 4px solid #ffffff;">
+                <div style="margin: auto;">
+                    <div style="color: white; font-size: 30px; text-align: center;">
+                  
+        <nav>
+            <div class="logo" style="font-family: 'Pacifico', cursive;">What does website development include?</div>
+            <input type="checkbox" id="nav1" class="check" />
+            <ul>
+                <li><div style="width: 600px;">Website development includes: creating a website structure and a prototype, full design and development on a professional platform. We take care of connecting the domain and hosting, as well as setting up corporate mail.</div></li>
+            </ul>
+        </nav>
+                    </div>
+                </div>
+
+                         <div style="color: rgb(75, 72, 72); font-size:85px;width: 100px;height: 100px; text-align: center"> 
+                            <div class="rotate-img" style="border-radius: 50%;">+</div>
+                                 </div>
+
+            </div>
+
+        </label>
+
+
+            
+
+
+
+
+
+
+        <label for="nav2" >
+                
+            <div class="navbar" style="display: flex; border-bottom: 4px solid #ffffff; cursor: pointer;width: 1000px;">
+                <div style="margin: auto;">
+                    <div style="color: white; font-size: 30px; text-align: center;">
+                  
+        <nav>
+            <div class="logo"style="font-family: 'Pacifico', cursive;">How long does development take?</div>
+            <input type="checkbox" id="nav2" class="check" />
+            <ul>
+                <li><div style="width: 600px;">Like the cost, the duration of the project depends on the amount of work. You can expect 2-3 weeks to develop a small promo site, and about 4-6 weeks to develop a multi-page site.
+
+                    Artwork we usually do in 3 weeks. Also we can manage silkscreen printing. </div></li>
+            </ul>
+        </nav>
+                    </div>
+                </div>
+
+                         <div style="color: rgb(75, 72, 72); font-size:85px;width: 100px;height: 100px; text-align: center"> 
+                            <div class="rotate-img" style="border-radius: 50%;">+</div>
+                                 </div>
+
+            </div>
+
+        </label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<label for="nav3">
+                
+            <div class="navbar" style="display: flex; border-bottom: 4px solid #ffffff; cursor: pointer; width: 1000px;">
+                <div style="margin: auto;">
+                    <div style="color: white; font-size: 30px; text-align: center;">
+                  
+        <nav>
+            <div class="logo"style="font-family: 'Pacifico', cursive;">What platform do you develop websites on?</div>
+            <input type="checkbox" id="nav3" class="check" />
+            <ul>
+                <li><div style="width: 600px;">The site is being developed on the professional platform. We use Webflow or Tilda depending on your project goals and objectives.</div></li>
+            </ul>
+        </nav>
+                    </div>
+                </div>
+
+                         <div style="color: rgb(75, 72, 72); font-size:85px;width: 100px;height: 100px; text-align: center"> 
+                            <div class="rotate-img" style="border-radius: 50%;">+</div>
+                                 </div>
+
+            </div>
+
+        </label>
+
+
+
+
+
+
+
+
+
+
+
+        <label for="nav4">
+            
+            <div class="navbar" style="display: flex; border-bottom: 4px solid #ffffff; cursor: pointer; width: 1000px;">
+                <div style="margin: auto;">
+                    <div style="color: white; font-size: 30px; text-align: center;">
+                  
+        <nav>
+            <div class="logo"style="font-family: 'Pacifico', cursive;">What does the subscription service include?</div>
+            <input type="checkbox" id="nav4" class="check" />
+            <ul>
+                <li><div style="width: 600px;">For sites, this is technical maintenance of the site, updating content and managing corporate mail. Also as part of a subscription service for management or labels, we can regularly create layouts for all your artists as needed.</div></li>
+            </ul>
+        </nav>
+                    </div>
+                </div>
+                         <div style="color: rgb(75, 72, 72); font-size:85px;width: 100px;height: 100px; text-align: center"> 
+                            <div class="rotate-img" style="border-radius: 50%;">+</div>
+                                 </div>
+            </div>
+
+        </label>
+
+
+
+        </div>
+        
+
+    </body>  
+    </html>

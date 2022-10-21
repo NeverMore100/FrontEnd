@@ -1,0 +1,176 @@
+
+
+/* https://static.tildacdn.com/tild6533-3461-4163-a632-626337666361/giphy.gif */
+/* https://i.gifer.com/N0Mb.gif */
+/* https://i.gifer.com/embedded/download/S9CS.gif */
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://i.gifer.com/embedded/download/S9CS.gif);
+    background-size: cover;
+    background-attachment: fixed ;
+    overflow-x:hidden;
+}
+.white{
+    color: aliceblue;
+}
+#container{
+    width: 100px;
+    height: 100px; 
+   margin-bottom: 2%;
+}
+#whitesquare{
+    position: absolute;
+}
+#whitesquare2{
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    position: absolute;
+}
+#whitesquare3{
+    margin-left: 1%;
+    margin-top:1%;
+    position: absolute;
+}
+#words12{
+margin-left: 3%;
+}
+#words34{
+margin-left: 50%;
+}
+#word3{
+   float: right;
+ }
+ #word4,#word2,#toshine{
+ font-size: 100px;
+ } 
+
+.topp{
+    margin-top: 3%;
+    display: flex;
+}
+
+#buttonUS{
+    border-radius: 100px;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    text-align: center; 
+    padding: 8px 10px; 
+    border: solid 1px #f1f1f5; 
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;    
+    text-transform: uppercase;
+}
+#buttonUS:hover {
+    color: rgb(253, 255, 255);    
+    background-color: transparent;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear; 
+}
+#buttonUS:nth-child(1):hover { 
+    background: rgb(247, 247, 248);
+  }
+
+
+.bottom1{
+    margin-top: 3%;
+    display: flex;
+}
+
+    #krug {
+        position: absolute;
+        z-index: 100;
+      margin-left: 60%;
+      margin-top: 20%;
+      }
+     
+
+
+.bg-ex-parallax { 
+  background: url(https://static.tildacdn.com/tild6533-3461-4163-a632-626337666361/giphy.gif); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  width: 1200px;
+  height: 300px;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+.bg-ex-parallax .parallax-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+ 
+  z-index: 2;
+}
+.bg-ex-parallax span {
+    z-index: 3;
+
+}
+
+
+
+  .rotate-img {
+    -webkit-transition: -webkit-transform .6s ease-in-out;
+            transition:         transform .6s ease-in-out;
+  }
+  
+  .navbar:hover .rotate-img{
+    background-color: white;
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg); 
+  }
+
+  
+
+  
+
+.check{
+    display: none;
+}
+    nav ul {
+        display: none;
+    }
+    
+    [type="checkbox"]:checked ~ ul {
+        display: block;
+        z-index: 9999;
+        right: 20px;
+        left: 20px;
+    }
+    nav a {
+        color: rgb(255, 255, 255);
+    }
+    nav ul li {
+         display: block;
+        background: rgb(5, 5, 5);
+       
+    }
+    
+    nav > ul li ul {
+        display: block;
+        position: relative;
+        width: 100%;
+    
+    }
+    h1 {
+        font-size: 26px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
